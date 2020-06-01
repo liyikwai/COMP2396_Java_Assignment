@@ -1,3 +1,17 @@
+This assignment tests your understanding on GUI, Java Socket Programming and the 
+application of multi-threading. 
+
+ 
+
+In this assignment, you are going to implement a two-player Tic-Tac-Toe Game. The 
+game would only start when the Tic-Tac-Toe Server runs and two players are connected 
+to the server. When the game starts, players need to input their player¡¯s name first (i.e. 
+the player cannot make any move if he/she does not enter his/her player¡¯s name. Players are not allowed to re-input their names again once they have submitted their 
+names (i.e. the textboxes and the submit buttons should be disabled). In addition, their 
+names should be displayed in the frame¡¯s title (i.e. change from Tic Tac Toe to Tic Tac 
+Toe-Player: (player¡¯s name)) and the message title (located below the menu bar) should 
+change from ¡°Enter your player name¡­¡± to ¡°WELCOME (player¡¯s name)¡± .
+
 These *.java documents basically fulfil the requirements of assignment5. 
 The running method of this programe is the same as the demo video in moodle.
 
